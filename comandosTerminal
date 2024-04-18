@@ -1,0 +1,10 @@
+ls - enlistar archivos dentro de la carpeta
+cd - cambiar de directorio
+touch - crear archivo o documento
+mkdir - crear una carpeta
+cd .. - regresar una carpeta anterior
+cat - visualizar el archivo
+code . - abrir la carpeta en vsc
+rm - borrar el archivo
+mv - mover archivo
+ls -lha - para enlistar los archivos en lenguaje humano
